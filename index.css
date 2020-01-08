@@ -1,0 +1,16 @@
+body {
+    background: rgb(0,0,0);
+background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 20%, rgba(49,162,199,1) 100%);
+text-align: center;
+}
+.title {
+    color: whitesmoke;
+}
+.desc1 {
+    display: flex;
+    justify-content: left;
+    margin-top: 100px;
+}
+.image1 {
+    border: 10px, whitesmoke, solid
+}
