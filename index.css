@@ -8,9 +8,18 @@ text-align: center;
 }
 .desc1 {
     display: flex;
-    justify-content: left;
+    justify-content: space-between;
     margin-top: 100px;
+    margin-right: 20px;
+    margin-left: 20px;
+    
 }
 .image1 {
     border: 10px, whitesmoke, solid
+}
+.desc1Text {
+    color: whitesmoke;
+    font-size: 15px;
+    font-family: 'Gelasio', serif;
+    margin-left: 10px;
 }
